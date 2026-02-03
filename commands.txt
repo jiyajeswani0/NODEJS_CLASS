@@ -1,0 +1,11 @@
+pwd
+ls
+mkdir
+chmod
+cd filename
+cat
+echo
+grep
+chown
+rm
+touch
